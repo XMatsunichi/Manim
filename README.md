@@ -23,7 +23,7 @@ Buka Console
 -------------
 Click Run
 ```
-## FOR OKTETO
+## FOR OKTETO OK
 
 * Okteto [`Click Here`](https://okteto.com)
 
